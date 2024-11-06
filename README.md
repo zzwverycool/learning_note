@@ -1,4 +1,4 @@
-# learning_note
+# 学习笔记
 
 [OS](https://www.mubu.com/doc/7T-W662CUKP)
 [计网](https://www.mubu.com/doc/vTPnGLssKP)
